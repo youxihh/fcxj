@@ -19,9 +19,9 @@ nanrui  gw  芦  菜菜~  谷维陌  H.K  Jerome  kkk  卖咸鱼  清沉  欧阳
 
 ## 游戏截图
 
-![image](https://github.com/youxihh/fcxj/blob/main/screencasts/%E5%AF%B9%E8%AF%9D.gif)
-![image](https://github.com/youxihh/fcxj/blob/main/screencasts/%E5%BC%80%E5%9C%BA.gif)
-![image](https://github.com/youxihh/fcxj/blob/main/screencasts/%E6%88%98%E6%96%97.gif)
+![image](./screencasts/对话.gif)
+![image](./screencasts/开场.gif)
+![image](./screencasts/战斗.gif)
 
 ## 感想
 
